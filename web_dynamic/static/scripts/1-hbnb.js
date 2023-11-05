@@ -1,3 +1,4 @@
+// Wait for the document to be fully loaded
 $(document).ready(function () {
   // Create an empty object to store amenities
   const amenities = {};
